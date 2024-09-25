@@ -1,4 +1,4 @@
-# Profiling & Optimisation (Python)
+# Profiling & Optimisation (Python)!
 
 ## Introduction
 
